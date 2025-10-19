@@ -24,7 +24,7 @@
 
 ### Задание 1
 
-![Название скриншота 1]([ссылка на скриншот 1](https://github.com/79195679376ab-star/-1-Disaster-recovery-Keepalived-/blob/main/Задание_1.png)
+![Название скриншота 1](https://github.com/79195679376ab-star/-1-Disaster-recovery-Keepalived-/blob/main/Задание_1.png)
 
 https://github.com/79195679376ab-star/-1-Disaster-recovery-Keepalived-/blob/main/(задание1)haproxy.cfg
 ---
@@ -32,7 +32,7 @@ https://github.com/79195679376ab-star/-1-Disaster-recovery-Keepalived-/blob/main
 ### Задание 2
 
 `
-![Название скриншота 2]([ссылка на скриншот 2](https://github.com/79195679376ab-star/-1-Disaster-recovery-Keepalived-/blob/main/Задание_2.png)
+![Название скриншота 2](https://github.com/79195679376ab-star/-1-Disaster-recovery-Keepalived-/blob/main/Задание_2.png)
 
 https://github.com/79195679376ab-star/-1-Disaster-recovery-Keepalived-/blob/main/(задание2)haproxy.cfg
 ---
